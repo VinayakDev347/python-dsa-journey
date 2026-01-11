@@ -28,3 +28,11 @@ i = 0
 while i<=5:
     print(i,end=" ")           #0 1 2 3 4 5
     i+=1
+
+"""
+
+% 10 → take
+// 10 → throw
+* 10 → shift left
+
+"""
